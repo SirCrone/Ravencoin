@@ -9,6 +9,7 @@ I am simply converting an image into copy/paste HTML so anyone can include the m
 
 Checkout:
 igraffit.com - My Art Shop
+
 RocketRaven.net - Asset Management solution for Ravencoin
 
 Support The Rocket Raven Ravencoin Fundation
