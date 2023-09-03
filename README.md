@@ -5,7 +5,7 @@ Ravencoin Ecosystem Map developed by:
 @Humble_Miner
 https://twitter.com/Humble_Miner
 
-I am simply converting an image into copy/paste HTML so anyone can include the most recent Ravencoin ecosystem into their websites.
+I am simply converting an image into copy/paste HTML so anyone can include the most recent Ravencoin ecosystem map into their websites/blogs/digital news pages.
 
 Checkout:
 igraffit.com - My Art Shop
